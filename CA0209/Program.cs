@@ -10,7 +10,8 @@ namespace CA0209
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Boa Tarde!");
+            Console.WriteLine("Agora São 16:49");
         }
     }
 }
